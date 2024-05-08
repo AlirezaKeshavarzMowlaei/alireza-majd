@@ -22,6 +22,7 @@ Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber}");
 Console.WriteLine("");
 
 Console.WriteLine("mamad herley");
+kesh
 class Student { 
 
 }
