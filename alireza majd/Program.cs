@@ -16,7 +16,7 @@ Console.WriteLine("thats the end of our story");
 
 Console.WriteLine("raftim baray sevomi");
 
-Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber}");
+Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber} and inam az {Sum}");
 
 
 
