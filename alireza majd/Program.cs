@@ -37,10 +37,11 @@ uyu
     zxc
     xz
     asd
+    global::System.Console.WriteLine("ss");
 
     asd
     dsd
-    as
+    as   keshhhh
     LocalDataStoreSlotdwss
 
     da
