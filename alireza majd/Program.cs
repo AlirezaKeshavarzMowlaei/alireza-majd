@@ -13,3 +13,4 @@ int Sum = FirstNumber + SecondNumber;
 Console.WriteLine($"the Sum of {FirstNumber} and {SecondNumber} is {Sum}");
 
 Console.WriteLine("thats the end of our story");
+Console.WriteLine("hi");
