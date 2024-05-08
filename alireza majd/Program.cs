@@ -23,25 +23,6 @@ Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber} and inam 
 Console.WriteLine("mamad herley");
 Console.WriteLine("inam akhari");
 
-class Student { 
-
+class Student {
+    Console.WriteLine("bbv);
 }
-uyu
-    xlkxzccx
-    cx
-    zc
-    zxc
-    xzc
-    zx
-    zxc
-    zxc
-    xz
-    asd
-    global::System.Console.WriteLine("ss");
-
-    asd
-    dsd
-    as   keshhhh
-    LocalDataStoreSlotdwss
-
-    da
