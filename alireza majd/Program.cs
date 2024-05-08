@@ -1,6 +1,7 @@
 ﻿//Alireza Keshavarz Mowlaei
 //Ali majd
 
+Console.WriteLine("Calculator:");
 Console.Write("Enter the first Number:");
 int FirstNumber = Convert.ToInt32(Console.ReadLine());
 
