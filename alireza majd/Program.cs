@@ -14,15 +14,15 @@ Console.WriteLine($"the Sum of {FirstNumber} and {SecondNumber} is {Sum}");
 
 Console.WriteLine("thats the end of our story");
 
-Console.WriteLine("inam az dovomi");
 Console.WriteLine("raftim baray sevomi");
 
-Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber}");
+Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber} and inam az {Sum}");
 
-Console.WriteLine("");
+
 
 Console.WriteLine("mamad herley");
-kesh
+Console.WriteLine("inam akhari");
+
 class Student { 
 
 }
