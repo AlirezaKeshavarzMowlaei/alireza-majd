@@ -14,6 +14,8 @@ Console.WriteLine($"the Sum of {FirstNumber} and {SecondNumber} is {Sum}");
 
 Console.WriteLine("thats the end of our story");
 
+Console.WriteLine("inam az dovomi");
+
 class Student { 
 
 }
