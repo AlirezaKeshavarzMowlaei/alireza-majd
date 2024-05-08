@@ -19,6 +19,7 @@ Console.WriteLine("raftim baray sevomi");
 
 Console.WriteLine($"jafar shode {FirstNumber} and mamad {SecondNumber}");
 
+Console.WriteLine("");
 class Student { 
 
 }
